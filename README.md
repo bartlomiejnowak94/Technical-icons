@@ -1,5 +1,5 @@
 # Technical-icons
-Set of technical icons
+This is a set of icons made by me, for my github main page. Feel free to use it ;) But give me the credit please :) 
 
 ## Github
 <img src="icons/git-sqr.png" height="60"> https://github.com/
