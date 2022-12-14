@@ -48,3 +48,9 @@ This is a set of vector icons of popular brands made by me, for my github main p
 
 ## Latex
 <img src="icons/tex-sqr.png" height="60"> https://en.wikipedia.org/wiki/LaTeX
+
+## Sekurak
+<img src="icons/sekurak-sqr.png" height="60"> https://sekurak.pl/
+
+## Datacamp
+<img src="icons/dcamp-sqr.png" height="60"> https://datacamp.com
